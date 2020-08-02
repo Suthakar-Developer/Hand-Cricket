@@ -1,16 +1,3 @@
-# hand_cricket
+# Hand-Cricket
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Want to relive your old days just download this and run it in your machine. It really makes you feel proud about your past hand-cricket skills. This app is unique and you won't find similar apps in even playstore. I know I know it's kind of too much to say but trust me, this project is highly inspired because of lack of resources in internet to play hand-cricket.
